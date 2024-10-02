@@ -2,21 +2,5 @@
 # This yaml frontmatter is required for jekyll to process the file
 ---
 
-/* @import "{{ site.theme }}"; */
-
-/* Tailwind */
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Custom */
-
-body {
-  @apply bg-black text-gray-50;
-}
-
-body > h1:first-child, body > div:first-child > h1:first-child {
-  @apply text-white font-sans;
-  font-family: "Roboto";
-}
+@import "{{ site.theme }}";
+@import "custom-style.css";
