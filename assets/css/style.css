@@ -4,9 +4,13 @@
 
 @import "{{ site.theme }}";
 
+/* Tailwind */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Custom */
 
 body {
   @apply bg-black text-gray-50;
