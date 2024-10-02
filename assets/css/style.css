@@ -2,8 +2,8 @@
 # This yaml frontmatter is required for jekyll to process the file
 ---
 
+@import "{{ site.theme }}";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import "{{ site.theme }}";
