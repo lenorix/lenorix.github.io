@@ -2,7 +2,7 @@
 # This yaml frontmatter is required for jekyll to process the file
 ---
 
-@import "{{ site.theme }}";
+/* @import "{{ site.theme }}"; */
 
 /* Tailwind */
 
