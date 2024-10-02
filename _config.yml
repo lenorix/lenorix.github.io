@@ -1,5 +1,6 @@
 title: lenorix
 description: Website of leronix
+repository: leronix/leronix.github.io
 
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
