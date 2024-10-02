@@ -9,9 +9,10 @@
 @tailwind utilities;
 
 body {
-  @apply bg-black text-gray-50
+  @apply bg-black text-gray-50;
 }
 
 body > h1:first-child, body > div:first-child > h1:first-child {
-  @apply text-white font-sans
+  @apply text-white font-sans;
+  font-family: "Roboto";
 }
