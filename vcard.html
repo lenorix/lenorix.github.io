@@ -3,21 +3,21 @@ layout: default
 title: lenorix vCard
 ---
 
-<img id="vcard-qr" />
+<form id="vcard" action="javascript:void(0);">
+  <img id="vcard-qr" />
 
-<form id="vcard">
   <label for="firstname">Firstname:</label>
-  <input type="text" id="firstname" name="firstname" required>
+  <input type="text" id="vcard-firstname" name="firstname" required>
   <label for="surname">Surname:</label>
-  <input type="text" id="surname" name="surname" required>
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required>
-  <label for="phone">Phone:</label>
-  <input type="tel" id="phone" name="phone" required>
-</form>
-<button id="vcard-button">Generate vCard</button>
+  <input type="text" id="vcard-surname" name="surname" required>
 
-<script type="text/javascript">
+  <label for="email">Email:</label>
+  <input type="email" id="vcard-email" name="email" required>
+  <label for="phone">Phone:</label>
+  <input type="tel" id="vcard-phone" name="phone" required>
+</form>
+
+<script type="text/javascript" defer>
   function vcard(firstname, surname, company, website, email, phone) {
     let vcard = "BEGIN:VCARD\n" +
       "VERSION:4.0\n" +
@@ -33,7 +33,7 @@ title: lenorix vCard
     return vcard;
   }
 
-  document.getElementById("vcard-button").addEventListener("click", function() {
+  function updateQRCode() {
     let firstname = document.getElementById("firstname").value;
     let surname = document.getElementById("surname").value;
     let website = "{{ site.url }}";
@@ -44,5 +44,29 @@ title: lenorix vCard
     let vcardUrl = encodeURIComponent(vcardData);
 
     document.getElementById("vcard-qr").src = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=" + vcardUrl;
+  }
+
+  function saveToLocalStorage(field) {
+    const value = document.getElementById(field).value;
+    localStorage.setItem(field, value);
+  }
+
+  function loadFromLocalStorage(field) {
+    const value = localStorage.getItem(field);
+    if (value) {
+      document.getElementById(field).value = value;
+    }
+  }
+
+  document.bind("load", function() {
+    document.querySelectorAll("#vcard input").forEach(input => {
+      input.addEventListener("input", () => {
+        //saveToLocalStorage(input.id);
+        console.log(input.id);
+        updateQRCode();
+      });
+      loadFromLocalStorage(input.id);
+    });
+    updateQRCode();
   });
 </script>
