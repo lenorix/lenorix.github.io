@@ -58,7 +58,7 @@ title: lenorix vCard
     }
   }
 
-  document.bind("load", function() {
+  window.addEventListener("load", () => {
     document.querySelectorAll("#vcard input").forEach(input => {
       input.addEventListener("input", () => {
         //saveToLocalStorage(input.id);
