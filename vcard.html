@@ -34,11 +34,11 @@ title: lenorix vCard
   }
 
   function updateQRCode() {
-    let firstname = document.getElementById("firstname").value;
-    let surname = document.getElementById("surname").value;
+    let firstname = document.getElementById("vcard-firstname").value;
+    let surname = document.getElementById("vcard-surname").value;
     let website = "{{ site.url }}";
-    let email = document.getElementById("email").value;
-    let phone = document.getElementById("phone").value;
+    let email = document.getElementById("vcard-email").value;
+    let phone = document.getElementById("vcard-phone").value;
 
     let vcardData = vcard(firstname, surname, "", website, email, phone);
     let vcardUrl = encodeURIComponent(vcardData);
