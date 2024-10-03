@@ -41,8 +41,7 @@ title: lenorix vCard
     let phone = document.getElementById("phone").value;
 
     let vcardData = vcard(firstname, surname, "", website, email, phone);
-    let vcardBlob = new Blob([vcardData], {type: "text/vcard"});
-    let vcardUrl = URL.createObjectURL(vcardBlob);
+    let vcardUrl = "vcard://" + encodeURIComponent(vcardData);
 
     document.getElementById("vcard-qr").src = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=" + vcardUrl;
   });
