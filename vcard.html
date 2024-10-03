@@ -1,0 +1,50 @@
+---
+layout: default
+title: lenorix vCard
+---
+
+<img id="vcard-qr" />
+
+<form id="vcard">
+  <label for="firstname">Firstname:</label>
+  <input type="text" id="firstname" name="firstname" required>
+  <label for="surname">Surname:</label>
+  <input type="text" id="surname" name="surname" required>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required>
+  <label for="phone">Phone:</label>
+  <input type="tel" id="phone" name="phone" required>
+
+  <button id="vcard-button">Generate vCard</button>
+</form>
+
+<script type="text/javascript">
+  function vcard(firstname, surname, company, website, email, phone) {
+    let vcard = "BEGIN:VCARD\n" +
+      "VERSION:4.0\n" +
+      "FN:" + firstname + " " + surname + "\n" +
+      "N:" + surname + ";" + firstname + ";;;\n";
+    
+    if (company) vcard += "ORG:" + company + "\n";
+    if (website) vcard += "URL:" + website + "\n";
+    if (email) vcard += "EMAIL;TYPE=work:" + email + "\n";
+    if (phone) vcard += "TEL;TYPE=work:" + phone + "\n";
+
+    vcard += "END:VCARD\n";
+    return vcard;
+  }
+
+  document.getElementById("vcard-button").addEventListener("click", function() {
+    let firstname = document.getElementById("firstname").value;
+    let surname = document.getElementById("surname").value;
+    let website = "{{ site.url }}";
+    let email = document.getElementById("email").value;
+    let phone = document.getElementById("phone").value;
+
+    let vcardData = vcard(firstname, surname, "", website, email, phone);
+    let vcardBlob = new Blob([vcardData], {type: "text/vcard"});
+    let vcardUrl = URL.createObjectURL(vcardBlob);
+
+    document.getElementById("vcard-qr").src = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=" + vcardUrl;
+  });
+</script>
