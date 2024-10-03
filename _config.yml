@@ -1,7 +1,7 @@
 title: lenorix
-description: Website of leronix
-repository: leronix/leronix.github.io
-url: https://leronix.com
+description: Website of lenorix
+repository: lenorix/lenorix.github.io
+url: https://lenorix.com
 
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
