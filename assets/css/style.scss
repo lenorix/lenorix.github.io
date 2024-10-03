@@ -3,4 +3,3 @@
 ---
 
 @import "{{ site.theme }}";
-@import "{{ "/assets/css/custom-style.css?v=" | append: site.github.build_revision | relative_url }}";
