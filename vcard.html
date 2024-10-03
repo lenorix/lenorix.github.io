@@ -61,8 +61,7 @@ title: lenorix vCard
   window.addEventListener("load", () => {
     document.querySelectorAll("#vcard input").forEach(input => {
       input.addEventListener("input", () => {
-        //saveToLocalStorage(input.id);
-        console.log(input.id);
+        saveToLocalStorage(input.id);
         updateQRCode();
       });
       loadFromLocalStorage(input.id);
