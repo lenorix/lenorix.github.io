@@ -53,7 +53,7 @@ title: lenorix vCard
     let vcardUrl = encodeURIComponent(vcardData);
 
     if (!size) size = 175;
-    document.getElementById("vcard-qr").src = `https://api.qrserver.com/v1/create-qr-code/?size=${size}x${size}&data=${vcardUrl}`;
+    document.getElementById("vcard-qr").src = `https://api.qrserver.com/v1/create-qr-code/?format=svg&qzone=4&size=${size}x${size}&data=${vcardUrl}`;
   }
 
   function saveToLocalStorage(field) {
