@@ -3,8 +3,9 @@ layout: default
 title: lenorix vCard
 ---
 
-<form id="vcard" action="javascript:void(0);" class="border border-gray rounded-xl shadow-2xl w-96 h-56 m-auto bg-red-100 relative text-white transition-transform transform hover:scale-109">
-  <img id="vcard-qr" />
+<form id="vcard" action="javascript:void(0);" class="border border-gray rounded-xl shadow-2xl w-96 h-56 m-auto bg-red-100 relative text-white transition-transform transform hover:scale-109 p-1
+  grid grid-cols-2 gap-2 grid-rows-8">
+  <img id="vcard-qr" class="row-span-8" />
 
   <label for="firstname">Firstname:</label>
   <input type="text" id="vcard-firstname" name="firstname" required>
