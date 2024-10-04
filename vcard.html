@@ -8,12 +8,12 @@ title: lenorix vCard
   transition-transform transform
   hover:scale-110
   portrait:rotate-90 portrait:mt-40 mt-20
-  grid grid-cols-2 gap-2 grid-rows-9"
+  grid grid-cols-2 gap-2 grid-rows-8"
   style="background-image: url({{ "/assets/img/vcard-background.svg?v=" | append: site.github.build_revision | relative_url }}); background-size: cover;">
 
-  <h1 class="logo-font text-xl col-span-2">lenorix</h1>
+  <h1 class="logo-font text-2xl">lenorix</h1>
 
-  <img id="vcard-qr" alt="QR code to scan contact vCard" class="row-span-8 mt-1 rounded-sm" />
+  <img id="vcard-qr" alt="QR code to scan contact vCard" class="row-span-7 mt-2 rounded-md" />
 
   <label for="firstname">Firstname:</label>
   <input type="text" id="vcard-firstname" name="firstname" required>
