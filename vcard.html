@@ -1,14 +1,16 @@
 ---
-layout: default
+layout: base
 title: lenorix vCard
 ---
 
 <!-- Aspect ratio must be 1.586 -->
-<form id="vcard" action="javascript:void(0);" class="w-[8.560cm] h-[5.398cm] border border-gray rounded-xl shadow-2xl m-auto bg-red-100 relative text-white p-2
+<main id="vcard" class="w-96 h-56 border border-gray rounded-xl shadow-2xl m-auto bg-red-100 relative text-white p-2
   transition-transform transform
   hover:scale-110
   portrait:rotate-90 portrait:mt-40
-  grid grid-cols-2 gap-2 grid-rows-8">
+  grid grid-cols-2 gap-2 grid-rows-9">
+  <h1 class="logo-font col-span-2">lenorix</h1>
+
   <img id="vcard-qr" class="row-span-8" />
 
   <label for="firstname">Firstname:</label>
@@ -20,7 +22,7 @@ title: lenorix vCard
   <input type="email" id="vcard-email" name="email" required>
   <label for="phone">Phone:</label>
   <input type="tel" id="vcard-phone" name="phone" required>
-</form>
+</main>
 
 <script type="text/javascript" defer>
   function vcard(firstname, surname, company, website, email, phone) {
