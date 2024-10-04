@@ -4,14 +4,15 @@ title: lenorix vCard
 ---
 
 <!-- Aspect ratio must be 1.586 -->
-<main id="vcard" class="w-96 h-56 border border-gray rounded-xl shadow-2xl m-auto bg-red-100 relative text-white p-2
+<main id="vcard" class="w-96 h-56 border border-gray rounded-xl shadow-2xl m-auto relative p-2
   transition-transform transform
   hover:scale-110
   portrait:rotate-90 portrait:mt-40 mt-20
   grid grid-cols-2 gap-2 grid-rows-9">
-  <h1 class="logo-font col-span-2">lenorix</h1>
 
-  <img id="vcard-qr" class="row-span-8" />
+  <h1 class="logo-font text-xl col-span-2">lenorix</h1>
+
+  <img id="vcard-qr" alt="QR code to scan contact vCard" class="row-span-8" />
 
   <label for="firstname">Firstname:</label>
   <input type="text" id="vcard-firstname" name="firstname" required>
@@ -40,7 +41,7 @@ title: lenorix vCard
     return vcard;
   }
 
-  function updateQRCode() {
+  function updateQRCode(size) {
     let firstname = document.getElementById("vcard-firstname").value;
     let surname = document.getElementById("vcard-surname").value;
     let website = "{{ site.url }}";
@@ -50,7 +51,8 @@ title: lenorix vCard
     let vcardData = vcard(firstname, surname, "", website, email, phone);
     let vcardUrl = encodeURIComponent(vcardData);
 
-    document.getElementById("vcard-qr").src = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=" + vcardUrl;
+    if (!size) size = 175;
+    document.getElementById("vcard-qr").src = `https://api.qrserver.com/v1/create-qr-code/?size=${size}x${size}&data=${vcardUrl}`;
   }
 
   function saveToLocalStorage(field) {
