@@ -5,15 +5,15 @@ title: lenorix vCard
 
 <!-- Aspect ratio must be 1.586 -->
 <main id="vcard" class="w-96 landscape:h-56 portrait:min-h-56 border border-gray rounded-xl shadow-2xl m-auto relative p-2
-  transition-transform transform
-  hover:scale-110
   portrait:mt-10 mt-20
   grid grid-cols-2 gap-1 landscape:grid-rows-8 portrait:grid-rows-8"
   style="background-image: url({{ "/assets/img/vcard-background.svg?v=" | append: site.github.build_revision | relative_url }}); background-size: cover;">
 
   <h1 class="logo-font text-2xl landscape:row-span-4 portrait:col-span-2 align-top">lenorix</h1>
 
-  <img id="vcard-qr" alt="QR code to scan contact vCard" class="portrait:w-80 landscape:row-span-8 portrait:row-span-4 portrait:col-span-2 landscape:mt-3 landscape:ml-1 landscape:mr-1 portrait:ml-4 rounded-md" />
+  <img id="vcard-qr" alt="QR code to scan contact vCard" class="transition-transform transform
+  hover:scale-110
+  portrait:w-80 landscape:row-span-8 portrait:row-span-4 portrait:col-span-2 landscape:mt-3 landscape:ml-1 landscape:mr-1 portrait:ml-4 rounded-md" />
 
   <label for="firstname" hidden>Firstname:</label>
   <input type="text" id="vcard-firstname" name="firstname" placeholder="firstname" required>
