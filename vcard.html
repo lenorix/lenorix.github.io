@@ -32,6 +32,7 @@ title: lenorix vCard
   function vcard(firstname, surname, company, website, email, phone) {
     let vcard = "BEGIN:VCARD\n" +
       "VERSION:4.0\n" +
+      "REV:" + (new Date()).toISOString().replace(/[-:]/g, "").replace(/\.\d+Z/, "Z") + "\n" +
       "FN:" + firstname + " " + surname + "\n" +
       "N:" + surname + ";" + firstname + ";;;\n";
     
