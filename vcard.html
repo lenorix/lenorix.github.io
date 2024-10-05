@@ -82,7 +82,7 @@ title: lenorix vCard
       loadFromLocalStorage(input.id);
     });
     // when email change get it's value, modify and put new value accessing its own element in listener without access searching it again
-    document.querySelector("#vcard input#vcard-email").addEventListener("input", (event) => {
+    document.querySelector("#vcard input#vcard-email").addEventListener("change", (event) => {
       const HOSTNAME = window.location.hostname;
       event.target.value = event.target.value
         .replace("mailto:", "")
