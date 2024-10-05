@@ -46,14 +46,16 @@ title: lenorix vCard
   }
 
   function updateQRCode(size) {
-    let firstname = document.getElementById("vcard-firstname").value;
-    let surname = document.getElementById("vcard-surname").value;
-    let website = "{{ site.url }}";
+    const HOSTNAME = window.location.hostname;
+
+    const FIRSTNAME = document.getElementById("vcard-firstname").value;
+    const SURNAME = document.getElementById("vcard-surname").value;
+    let website = `https://${HOSTNAME}`;
     let email = document.getElementById("vcard-email").value;
     let phone = document.getElementById("vcard-phone").value;
 
-    let vcardData = vcard(firstname, surname, "", website, email, phone);
-    let vcardUrl = encodeURIComponent(vcardData);
+    const VCARD = vcard(FIRSTNAME, SURNAME, "", website, email, phone);
+    let vcardUrl = encodeURIComponent(VCARD);
 
     if (!size) size = 175;
     document.getElementById("vcard-qr").src = `https://api.qrserver.com/v1/create-qr-code/?format=svg&qzone=4&size=${size}x${size}&data=${vcardUrl}`;
@@ -78,6 +80,13 @@ title: lenorix vCard
         updateQRCode();
       });
       loadFromLocalStorage(input.id);
+    });
+    // when email change get it's value, modify and put new value accessing its own element in listener without access searching it again
+    document.querySelector("#vcard input#vcard-email").addEventListener("input", (event) => {
+      const HOSTNAME = window.location.hostname;
+      event.target.value = event.target.value
+        .replace("mailto:", "")
+        .split("@")[0] + `@${HOSTNAME}`;
     });
     updateQRCode();
   });
