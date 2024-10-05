@@ -87,6 +87,7 @@ title: lenorix vCard
       event.target.value = event.target.value
         .replace("mailto:", "")
         .split("@")[0] + `@${HOSTNAME}`;
+      saveToLocalStorage(event.target.id);
     });
     updateQRCode();
   });
