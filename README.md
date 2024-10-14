@@ -10,4 +10,4 @@ Focused on innovation, transparency, and flexibility, lenorix stands out as a tr
 
 ## Contact Us
 
-Ready to know more? Get in touch at [contact@lenorix.com](mailto:contact@lenorix.com).
+Ready to know more? Get in touch at [contact@lenorix.com](mailto:contact@lenorix.com). We have a [PGP public key](./public-key) if you need it.
