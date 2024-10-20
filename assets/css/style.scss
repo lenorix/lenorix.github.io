@@ -4,6 +4,16 @@
 
 @import "{{ site.theme }}";
 
-body { background-color: #000; color: #fff; }
+body {
+    background-color: #000;
+    color: #fff;
+}
 
-.highlight { background-color: transparent !important; }
+.highlight {
+    background-color: transparent !important;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
