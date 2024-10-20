@@ -16,3 +16,4 @@ plugins:
   - jekyll-relative-links
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-minifier
