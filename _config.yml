@@ -42,4 +42,4 @@ jekyll-minifier:
   simple_boolean_attributes: false  # Default: false
   compress_js_templates: true       # Default: false
   preserve_patterns:                # Default: (empty)
-  uglifier_args:                    # Default: (empty)
+#  uglifier_args:                    # Default: (empty)
