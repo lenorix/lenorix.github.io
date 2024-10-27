@@ -4,7 +4,7 @@
 
 A technology company dedicated to transforming complex challenges into seamless digital experiences. We deliver innovative, high-quality solutions that empower businesses to achieve more, with less.
 
-We can help your bussines creating your app, web and other software or technological consultancy.
+We can help your bussines creating your app, web and other software or technological consultancy. If you are wondering about create your own app without coding it yourself, contact us.
 
 ## Why Choose lenorix?
 
