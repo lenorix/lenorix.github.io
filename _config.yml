@@ -20,6 +20,9 @@ plugins:
   - jekyll-feed
   - jekyll-tailwindcss
 
+sass:
+  style: compressed
+
 jekyll-minifier:
   preserve_php: false
   remove_spaces_inside_tags: true   # Default: true
