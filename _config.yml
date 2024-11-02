@@ -18,6 +18,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-minifier
   - jekyll-feed
+  - jekyll-tailwindcss
 
 jekyll-minifier:
   preserve_php: false
