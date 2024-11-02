@@ -20,14 +20,6 @@ plugins:
   - jekyll-feed
   - jekyll-tailwindcss
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - tailwind.config.js
-  - postcss.config.js
-  - node_modules/
-  - package.json
-
 jekyll-minifier:
   preserve_php: false
   remove_spaces_inside_tags: true   # Default: true
