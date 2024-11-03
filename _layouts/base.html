@@ -19,18 +19,19 @@
     <style>
       * { background-color: transparent; font-family: "Roboto"; }
 
-      html,body { background-color: #000; color: #fff; }
+      html,
+      body { background-color: #000; color: #fff; }
 
       a { color: inherit; text-decoration: inherit; }
 
       .highlight { background-color: transparent !important; }
 
-      .markdown-body h1,
-      .markdown-body h2,
-      .markdown-body h3,
-      .markdown-body h4,
-      .markdown-body h5,
-      .markdown-body h6 { border-bottom-color: #151515; }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 { border-bottom: 1px solid #151515; padding-bottom: .3em; margin-top: 24px; margin-bottom: 16px; line-height: 1.25; }
     </style>
 
     <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="{{ "/assets/css/custom-style.css?v=" | append: site.github.build_revision | relative_url }}">
