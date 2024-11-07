@@ -18,4 +18,4 @@ We are a company based on Barcelona, but used to remote work for you have us alw
 
 ## Contact Us
 
-Ready to know more? Get in touch at [our email](mailto:contact@lenorix.com). We have a [PGP public key](./public-key) if you need it.
+Ready to know more? Get in touch by [email](mailto:contact@lenorix.com). We have a [PGP public key](./public-key) if you need it.
