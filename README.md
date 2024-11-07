@@ -1,10 +1,14 @@
+---
+description: Barcelona-based company offering innovative software solutions for business growth, including app and web development and software consulting. If you're looking for custom software development companies near you, our remote services make us feel like a local partner, ready to support your business wherever you are. Considering creating your own app with us.
+---
+
 # lenorix
 
 ## Beyond Technology
 
 A technology company dedicated to transforming complex challenges into seamless digital experiences. We deliver innovative, high-quality solutions that empower businesses to achieve more, with less.
 
-We can help your bussines creating your app, web and other software or technological consultancy. If you are wondering about create your own app without coding it yourself, contact us.
+We can help your business creating your app, web and other software or technological consultancy. If you're considering creating your own app without coding it yourself, contact us.
 
 ## Why Choose lenorix?
 
@@ -14,7 +18,7 @@ Our solutions combine power with simplicity, making advanced technology accessib
 
 ## Where are we?
 
-We are a company based on Barcelona, but used to remote work for you have us always near as a partner to reach your goals.
+We are a company based in Barcelona, and we know you might be searching for custom software development companies near you. That's why we make our remote services feel as personal and effective as if we were right next door. We're committed to helping you achieve your goals.
 
 ## Contact Us
 
