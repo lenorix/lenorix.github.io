@@ -1,6 +1,6 @@
 ---
 permalink: index.html
-description: Barcelona-based company offering innovative software solutions for business growth, including app and web development and software consulting. If you're looking for custom software development companies near you, our remote services make us feel like a local partner, ready to support your business wherever you are. Considering creating your own app with us.
+description: Barcelona-based company offering innovative technology solutions for business growth, including app and web consulting. If you're looking for custom software development companies near you, our remote services make us feel like a local partner, ready to support your business wherever you are. Considering creating your own app with us.
 ---
 
 # lenorix
