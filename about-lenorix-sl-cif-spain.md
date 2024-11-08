@@ -4,7 +4,7 @@ title: What is lenorix S.L.? CIF number, address, and contact in Spain
 description: Learn about lenorix S.L., its CIF number, official address in Spain, phone number, and services.
 ---
 
-# What is lenorix S.L.?
+## What is lenorix S.L.?
 
 Discover the legal and official information about lenorix S.L., a leading technology company in Spain. It's the legal name of the company operating under the trade name lenorix.
 
