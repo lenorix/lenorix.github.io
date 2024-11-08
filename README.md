@@ -1,6 +1,7 @@
 ---
 permalink: index.html
-description: Barcelona-based company offering innovative technology solutions for business growth, including app and web consulting. If you're looking for custom software development companies near you, our remote services make us feel like a local partner, ready to support your business wherever you are. Considering creating your own app with us.
+title: lenorix | Custom Software Development & Enterprise Solutions
+description: Transform your business with professional custom app development and enterprise software solutions. Expert development team mastering PHP, Laravel/Symfony, Python, Django, JavaScript/TypeScript, Deno, Rust, Axum and others. From concept to deployment, we build the software that powers your success worldwide.
 ---
 
 # lenorix
