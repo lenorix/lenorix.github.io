@@ -10,7 +10,7 @@ description: Transform your business with professional custom app development an
 
 A technology company dedicated to transforming complex challenges into seamless digital experiences. We deliver innovative, high-quality solutions that empower businesses to achieve more, with less.
 
-We can help your business creating your app, web and other software or technological consultancy. If you're considering creating your own app without coding it yourself, contact us.
+We can help your business by creating custom apps, websites, and providing technological consultancy. If you're considering creating your own app without coding it yourself, let our expert team handle it for you. [**Contact us**](mailto:contact@lenorix.com) today.
 
 ## Why Choose lenorix?
 
@@ -24,4 +24,4 @@ We are [a company based in Barcelona](./software-development-barcelona), and we 
 
 ## Contact Us
 
-Ready to know more? Get in touch by [email](mailto:contact@lenorix.com). We have a [PGP public key](./public-key) if you need it.
+Ready to learn more about lenorix? Visit our [about us page](./about-lenorix-sl-cif-spain) or get in touch by [email](mailto:contact@lenorix.com). We have a [PGP public key](./public-key) if you need it.
