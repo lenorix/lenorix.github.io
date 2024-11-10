@@ -4,9 +4,9 @@ title: lenorix | Custom Software Development & Enterprise Solutions
 description: Transform your business with professional custom app development and enterprise software solutions. Expert development team mastering PHP, Laravel/Symfony, Python, Django, JavaScript/TypeScript, Deno, Rust, Axum and others. From concept to deployment, we build the software that powers your success worldwide.
 ---
 
-## Beyond Technology
-
 A technology company dedicated to transforming complex challenges into seamless digital experiences. We deliver innovative, high-quality solutions that empower businesses to achieve more, with less.
+
+## Beyond Technology
 
 We can help your business by creating custom apps, websites, and providing technological consultancy. If you're considering creating your own app without coding it yourself, let our expert team handle it for you. [**Contact us, Get a Free Consultation**](mailto:contact@lenorix.com) today.
 
