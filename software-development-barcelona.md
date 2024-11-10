@@ -4,11 +4,11 @@ title: lenorix | Custom Software Development in Barcelona
 description: Leading software development company in Barcelona specializing in local business solutions. Expert team creating custom apps and enterprise software near Barcelona. Professional developers ready to transform your business with modern technology. Local presence, global standards.
 ---
 
-## Custom Software Development in Barcelona
+## Custom Software Development Company in Barcelona
 
 Welcome to lenorix, a technology company based in Barcelona dedicated to transforming complex challenges into seamless digital experiences. We deliver innovative, high-quality solutions that empower businesses to achieve more with less.
 
-## Our Services
+## Our Custom Software Development Services in Barcelona
 
 - **App**: Creating intuitive mobile, web or desktop applications tailored to your business needs.
 - **Web**: Building responsive and SEO-friendly websites.
