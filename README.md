@@ -20,6 +20,11 @@ Our solutions combine power with simplicity, making advanced technology accessib
 
 We are [a company based in Barcelona](./software-development-barcelona), and we know you might be searching for custom software development companies near you. That's why we make our remote services feel as personal and effective as if we were right next door. We're committed to helping you achieve your goals.
 
+Also you can follow us in:
+
+- [Instagram](https://instagram.com/by_lenorix/)
+- [X (Twitter)](https://x.com/lenorix_com)
+
 ## Contact Us
 
 Ready to learn more about lenorix? Visit our [about us page](./about-lenorix-sl-cif-spain) or get in touch by [email](mailto:contact@lenorix.com). We have a [PGP public key](./public-key) if you need it.
