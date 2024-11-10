@@ -8,7 +8,7 @@ description: Transform your business with professional custom app development an
 
 A technology company dedicated to transforming complex challenges into seamless digital experiences. We deliver innovative, high-quality solutions that empower businesses to achieve more, with less.
 
-We can help your business by creating custom apps, websites, and providing technological consultancy. If you're considering creating your own app without coding it yourself, let our expert team handle it for you. [**Contact us**](mailto:contact@lenorix.com) today.
+We can help your business by creating custom apps, websites, and providing technological consultancy. If you're considering creating your own app without coding it yourself, let our expert team handle it for you. [**Contact us, Get a Free Consultation**](mailto:contact@lenorix.com) today.
 
 ## Why Choose lenorix for Your Business?
 
