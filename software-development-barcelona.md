@@ -1,10 +1,10 @@
 ---
 permalink: software-development-barcelona.html
 title: lenorix | Custom Software Development in Barcelona
-description: Leading software development company specializing in local and remote business solutions. Expert team creating custom apps and enterprise software near. Professional developers ready to transform your business with modern technology. Local presence, global standards.
+description: Leading software development company specializing in local and remote business solutions. Expert team creating custom apps and enterprise software with a local touch. Professional developers ready to transform your business with modern technology. Local presence, global standards.
 ---
 
-Our team in the city of "sagrada familia" collaborates with businesses in the area to transform complex problems into intuitive digital solutions. With a strong focus on innovation and excellence, we help companies streamline their operations and unlock new opportunities.
+Our team in the iconic city known for the Sagrada Familia collaborates with businesses in the area to transform complex problems into intuitive digital solutions. With a strong focus on innovation and excellence, we help companies streamline their operations and unlock new opportunities.
 
 ## Our Custom Software Development Services in Barcelona
 
