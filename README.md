@@ -10,7 +10,7 @@ A technology company dedicated to transforming complex challenges into seamless 
 
 We can help your business by creating custom apps, websites, and providing technological consultancy. If you're considering creating your own app without coding it yourself, let our expert team handle it for you. [**Contact us**](mailto:contact@lenorix.com) today.
 
-## Why Choose lenorix?
+## Why Choose lenorix for Your Business?
 
 Focused on innovation, transparency, and flexibility, lenorix stands out as a trusted partner for organizations seeking to leverage technology to its fullest potential.
 
