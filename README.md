@@ -8,7 +8,7 @@ A technology company dedicated to transforming complex challenges into seamless 
 
 ## Beyond Technology
 
-We can help your business by creating custom apps, websites, and providing technological consultancy. If you're considering creating your own app without coding it yourself, let our expert team handle it for you. [**Contact us, Get a Free Consultation**](mailto:contact@lenorix.com) today.
+We can help your business by creating custom apps, websites, and providing technological consultancy. If you're considering creating your own app without coding it yourself, let our expert team handle it for you. Also we can help you with [Social Media Marketing for the Chinese Market and brand localization](./social-media-marketing-agency-china). [**Contact us, Get a Free Consultation**](mailto:contact@lenorix.com) today.
 
 ## Why Choose lenorix for Your Business?
 

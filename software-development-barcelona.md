@@ -29,4 +29,4 @@ Focused on innovation, transparency, and flexibility, lenorix stands out as a to
 
 ## Contact Us
 
-Ready to learn more about how we can support your business? Get in touch in [our email](mailto:contact@lenorix.com). If you want to use PGP, we have a [PGP public key](./public-key).
+Ready to learn more about how we can support your business? Get in touch at [our email](mailto:contact@lenorix.com). If you want to use PGP, we have a [PGP public key](./public-key).
