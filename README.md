@@ -22,6 +22,7 @@ We are [a company based in Barcelona](./software-development-barcelona), and we 
 
 Also you can follow us in:
 
+- [Bluesky](https://bsky.app/profile/lenorix.com)
 - [Instagram](https://instagram.com/by_lenorix/)
 - [X (Twitter)](https://x.com/lenorix_com)
 
