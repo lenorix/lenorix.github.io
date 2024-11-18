@@ -24,8 +24,8 @@ We combine power with simplicity to make advanced technology accessible and impa
 
 Focused on innovation, transparency, and flexibility, lenorix stands out as a top custom software development company for businesses in the area. We are committed to helping you achieve your goals through:
 
-- **Innovative Solutions**: Delivering high-quality software that meets your unique needs.
 - **Client-Centric Approach**: Tailoring our services to align with your business objectives.
+- **Innovative Solutions**: Delivering high-quality software that meets your unique needs.
 
 ## Contact Us
 
