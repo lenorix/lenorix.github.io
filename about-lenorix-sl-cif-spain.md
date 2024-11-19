@@ -1,7 +1,7 @@
 ---
 permalink: about-lenorix-sl-cif-spain.html
 title: What is lenorix S.L.? CIF number, address, and contact in Spain
-description: Learn about lenorix S.L., its CIF number, official address in Spain, phone number, and services.
+description: Learn about lenorix S.L., including its CIF, official address in Spain, phone number, and offered services.
 ---
 
 ## What is lenorix S.L.?

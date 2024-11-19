@@ -1,7 +1,7 @@
 ---
 permalink: social-media-marketing-agency-china.html
 title: lenorix | Social Media Marketing Agency in Barcelona to bring you to China
-description: Reach the Chinese market with a leading social platforms marketing agency. Expert team creating content with a local touch. Professionals ready to help you to grow your business.
+description: Reach the Chinese market with expert content creation and local insights. Grow your business with our leading social platform marketing agency.
 ---
 
 ## Tailored Online Presence Marketing for China
