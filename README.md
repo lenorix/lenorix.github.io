@@ -18,7 +18,7 @@ Our solutions combine power with simplicity, making advanced technology accessib
 
 ## Where are we?
 
-We are [a company based in Barcelona](./software-development-barcelona), and we know you might be searching for custom software development companies near you. That's why we make our remote services feel as personal and effective as if we were right next door. We're committed to helping you achieve your goals.
+We are [a company based in Barcelona](./software-development-barcelona), and we know you might be searching for custom software development solutions companies near you. That's why we make our remote services feel as personal and effective as if we were right next door. We're committed to helping you achieve your goals.
 
 Also you can follow us in:
 
