@@ -61,6 +61,10 @@
         ]
       }
     </script>
+
+    {% if page.extra_head %}
+      {% include {{ page.extra_head }} %}
+    {% endif %}
   </head>
   <body class="bg-black text-gray-50">
     {{ content }}
