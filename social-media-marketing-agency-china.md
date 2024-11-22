@@ -1,6 +1,6 @@
 ---
 permalink: social-media-marketing-agency-china.html
-extra_head: local-bussines.html
+extra_head: local-business.html
 title: lenorix | Social Media Marketing Agency to bring you to China
 description: Reach the Chinese market with expert content creation and local insights. Grow your business with our leading social platform marketing agency.
 ---

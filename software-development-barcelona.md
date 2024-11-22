@@ -1,6 +1,6 @@
 ---
 permalink: software-development-barcelona.html
-extra_head: local-bussines.html
+extra_head: local-business.html
 title: lenorix | Custom Software Development Solutions in Barcelona
 description: Experts in Barcelona creating custom apps and enterprise solutions. Local presence, global standards and modern technology to transform your business.
 ---
