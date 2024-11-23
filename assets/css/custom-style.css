@@ -11,12 +11,15 @@ body {
 }
 
 @media screen {
-  body {
+  html {
     background-image: url('/assets/img/background.webp');
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+  body {
+    background-color: transparent !important;
   }
 }
 
