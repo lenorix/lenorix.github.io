@@ -44,7 +44,7 @@
 
 @media screen {
   html {
-    background-image: url('/assets/img/background.webp');
+    background-image: url('{{ "/assets/css/base-style.css?v=" | append: site.github.build_revision | relative_url }}');
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
