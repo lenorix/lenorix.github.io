@@ -6,16 +6,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@media screen {
-  html {
-    background: url(assets/img/background.webp) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-}
-
 body {
   @apply bg-black text-gray-50;
 }
