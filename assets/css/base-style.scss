@@ -3,13 +3,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-@media screen {
-  html {
-    background-image: url("/assets/img/background.webp") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-}
