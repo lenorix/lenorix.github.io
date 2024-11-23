@@ -9,11 +9,11 @@ Our team is based in Barcelona, the iconic european city, and collaborates with 
 
 ## Our Custom Software Development Services in Barcelona
 
+Get in touch now and let’s start building! We're here to create your own app together.
+
 - **App**: Creating intuitive mobile, web or desktop applications tailored to your business needs.
 - **Web**: Building responsive and SEO-friendly websites.
 - **Software Consultancy**: Offering expert advice to optimize your technology strategy.
-
-If you're considering creating your own app without coding it yourself, we're here to help.
 
 ## Expertise in Diverse Technologies
 
