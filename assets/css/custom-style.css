@@ -10,19 +10,6 @@ body {
   @apply bg-black text-gray-50;
 }
 
-@media screen {
-  html {
-    background-image: url('/assets/img/background.webp');
-    background-position: center center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  body {
-    background-color: transparent !important;
-  }
-}
-
 body > h1:first-child, body > div:first-child > h1:first-child {
   @apply text-white font-sans;
   font-family: "Roboto";
