@@ -5,7 +5,7 @@ title: lenorix | Custom Software Development & Enterprise Solutions
 description: Transform your business with custom app development and enterprise software. Experts in PHP, Laravel, Python, Rust, and more, delivering success worldwide.
 ---
 
-A technology company dedicated to transforming complex challenges into seamless digital experiences. We deliver innovative, high-quality solutions that empower businesses to achieve more, with less.
+A technology company dedicated to transforming complex challenges into seamless digital experiences. We deliver innovative, high-quality solutions that empower businesses to achieve more.
 
 ## Beyond Technology
 
