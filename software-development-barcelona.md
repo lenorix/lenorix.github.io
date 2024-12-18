@@ -1,7 +1,7 @@
 ---
 permalink: software-development-barcelona.html
 extra_head: local-business.html
-title: Custom Software Development in Barcelona (Spain) with lenorix
+title: The best Custom Software Development in Barcelona (Spain) - lenorix
 description: Experts in Barcelona creating custom apps and enterprise solutions. Local presence, global standards and modern technology to transform your business.
 ---
 
