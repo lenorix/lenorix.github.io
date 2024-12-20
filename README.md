@@ -26,6 +26,7 @@ Also you can follow us in:
 - [Bluesky](https://bsky.app/profile/lenorix.com)
 - [Instagram](https://instagram.com/by_lenorix/)
 - [X (Twitter)](https://x.com/lenorix_com)
+- [Telegram](https://t.me/lenorix)
 
 ## Contact Us
 
