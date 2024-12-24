@@ -15,7 +15,7 @@ We are a leading software development company specializing in custom app develop
 
 - **CIF Number**:    (Tax Identification Number)
 - **Official Address**:
-- **Phone Number**: +34
+- **Phone Number**: [+34 667344824](tel:0034667344824)
 - **Email**: [contact@lenorix.com](mailto:contact@lenorix.com)
 
 ## Get in Touch
