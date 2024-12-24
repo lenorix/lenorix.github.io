@@ -13,8 +13,8 @@ We are a leading software development company specializing in custom app develop
 
 ## Company Information
 
-- **CIF Number**:    (Tax Identification Number)
-- **Official Address**:
+- **Tax Identification Number**: B75683326
+- **Official Address**: lepant 270, Barcelona, Spain
 - **Phone Number**: [+34 667344824](tel:0034667344824)
 - **Email**: [contact@lenorix.com](mailto:contact@lenorix.com)
 
