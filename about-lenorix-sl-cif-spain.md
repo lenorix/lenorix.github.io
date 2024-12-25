@@ -15,7 +15,7 @@ We are a leading software development company specializing in custom app develop
 
 - **Tax Identification Number**: B75683326
 - **Official Address**: lepant 270, Barcelona, Spain
-- **Phone Number**: [+34 667344824](tel:0034667344824)
+- **Phone Number**: [+34 667 344 824](tel:0034667344824)
 - **Email**: [contact@lenorix.com](mailto:contact@lenorix.com)
 
 ## Get in Touch
