@@ -23,11 +23,11 @@ We are [a company based in Barcelona](./software-development-barcelona), and we 
 
 Also you can follow us in:
 
-- [LinkedIn](https://linkedin.com/company/lenorix)
-- [Bluesky](https://bsky.app/profile/lenorix.com)
-- [Instagram](https://instagram.com/by_lenorix/)
-- [X (Twitter)](https://x.com/lenorix_com)
-- [Telegram](https://t.me/lenorix)
+- <a href="https://linkedin.com/company/lenorix" rel="nofollow">LinkedIn</a>
+- <a href="https://bsky.app/profile/lenorix.com" rel="nofollow">Bluesky</a>
+- <a href="https://instagram.com/by_lenorix/" rel="nofollow">Instagram</a>
+- <a href="https://x.com/lenorix_com" rel="nofollow">X (Twitter)</a>
+- <a href="https://t.me/lenorix" rel="nofollow">Telegram</a>
 
 ## Contact Us
 
