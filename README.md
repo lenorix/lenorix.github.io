@@ -1,8 +1,8 @@
 ---
 permalink: index.html
 extra_head: local-business.html
-title: lenorix | Custom Software Development & Enterprise Solutions
-description: Transform your business with custom app development and enterprise software. Experts in PHP, Laravel, Python, Rust, and more, delivering success worldwide.
+title: lenorix, drawing the future together
+description: Are you ready to create a better future?
 ---
 
 A technology company dedicated to transforming complex challenges into seamless digital experiences. We deliver innovative, high-quality solutions that empower businesses to achieve more.
