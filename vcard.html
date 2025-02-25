@@ -9,15 +9,17 @@ sitemap: false
 <main id="vcard" class="w-96 landscape:h-56 portrait:min-h-56 border border-gray rounded-xl shadow-2xl m-auto relative p-2
   portrait:mt-10 mt-5
   grid grid-cols-2 gap-1 landscape:grid-rows-8 portrait:grid-rows-8
-  bg-gradient-to-br from-gray-800 via-gray-900 to-gray-800
+  bg-gradient-to-br from-gray-800 via-gray-950 to-gray-800
   text-gray-50
 ">
 
   <h1 class="logo-font text-2xl landscape:row-span-4 portrait:col-span-2 align-top">lenorix</h1>
 
-  <img id="vcard-qr" alt="QR code to scan contact vCard" class="transition-transform transform
-  hover:scale-110
-  portrait:w-80 landscape:row-span-8 portrait:row-span-4 portrait:col-span-2 landscape:mt-3 landscape:mr-2 portrait:ml-5 rounded-md" />
+  <img id="vcard-qr" alt="QR code to scan contact vCard" class="transition-transform transform rounded-md
+  portrait:w-80
+  portrait:row-span-4 landscape:row-span-8
+  portrait:col-span-2
+  landscape:mt-3 landscape:mr-2 portrait:ml-5" />
 
   <label for="firstname" hidden>Firstname:</label>
   <input type="text" id="vcard-firstname" name="firstname" placeholder="firstname" required>
