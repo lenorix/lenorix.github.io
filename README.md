@@ -5,6 +5,10 @@ title: lenorix, drawing the future together
 description: Are you ready to draw the future together?
 ---
 
+<section class="relative w-screen left-1/2 transform -translate-x-1/2 h-screen bg-cover bg-center" style="background-image: url('{{ "/assets/img/robot-and-human-hands.webp?v=" | append: site.github.build_revision | relative_url }}');">
+Test
+</section>
+
 ## Drawing The Future Together
 
 Transforming complex challenges into seamless experiences, drawing the future together. Delivering innovative, high-quality solutions that empower.
