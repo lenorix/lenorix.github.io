@@ -15,18 +15,27 @@ Get in touch now and let’s start building! We're here to create your own app t
 - **Web**: Building responsive and SEO-friendly websites.
 - **Software Consultancy**: Offering expert advice to optimize your technology strategy.
 
-## Expertise in Diverse Technologies
-
-Our tech stack includes PHP, JavaScript/TypeScript, Python, Rust, Go, C/C++ and more, with Laravel, Symfony, Django, Axum and others.
-
-We combine power with simplicity to make advanced technology accessible and impactful for your business.
-
 ## Why Choose lenorix?
 
-Focused on innovation, transparency, and flexibility, lenorix stands out as a top custom software development company for businesses in the area. We are committed to helping you achieve your goals through:
+We are committed to helping you achieve your goals through:
 
 - **Client-Centric Approach**: Tailoring our services to align with your business objectives.
 - **Innovative Solutions**: Delivering high-quality software that meets your unique needs.
+
+## Frequent Questions
+
+<details name="faq">
+  <summary>How much do coders charge per hour?</summary>
+  For a full time software developer the average hourly rate can be €80 to €120 in Barcelona.
+</details>
+<details name="faq">
+  <summary>How long does it take to build custom software?</summary>
+  It'll depends on what do you need. Typically could take 1-3 months for a first version. After that, <a href="https://en.wikipedia.org/wiki/Software_evolution" rel="nofollow">software evolution</a> could continue to address changing stakeholder and market requirements.
+</details>
+<details name="faq">
+  <summary>Is custom software expensive?</summary>
+  It could, but we are the partner you need to draw the future together. [Let's talk!](mailto:contact@lenorix.com)
+</details>
 
 ## Contact Us
 
