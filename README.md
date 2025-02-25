@@ -5,7 +5,7 @@ title: lenorix, drawing the future together
 description: Are you ready to draw the future together?
 ---
 
-<section class="overflow-x-hidden relative w-screen left-1/2 transform -translate-x-1/2 h-screen bg-cover bg-center" style="background-image: url('{{ "/assets/img/robot-and-human-hands.webp?v=" | append: site.github.build_revision | relative_url }}');">
+<section class="overflow-x-hidden relative w-full left-1/2 transform -translate-x-1/2 h-screen bg-cover bg-center" style="background-image: url('{{ "/assets/img/hero.webp?v=" | append: site.github.build_revision | relative_url }}');">
 Test
 </section>
 
