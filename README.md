@@ -7,31 +7,11 @@ description: Are you ready to draw the future together?
 
 <section class="relative w-screen left-1/2 transform -translate-x-1/2 h-screen bg-cover bg-center vignette p-4" style="background-image: url('{{ "/assets/img/hero.webp?v=" | append: site.github.build_revision | relative_url }}');">
   <article class="absolute inset-0 flex flex-col items-center justify-center px-3">
-  <h2 class="text-5xl font-bold text-white text-center">Drawing The Future Together</h2>
-  <p class="mt-4 text-xl text-white max-w-2xl text-center">Transforming complex challenges into seamless experiences, drawing the future together. Delivering innovative, high-quality solutions that empower.</p>
+    <h2 class="text-5xl font-bold text-white text-center">Drawing The Future Together</h2>
+    <p class="mt-4 text-xl text-white max-w-2xl text-center">Transforming complex challenges into seamless experiences, drawing the future together. Delivering innovative, high-quality solutions that empower.</p>
+    <a href="#contact-us" class="inline-block bg-white text-black border border-gray-300 hover:bg-gray-100 py-2 px-4 rounded transition duration-300 font-medium">Let's talk!</a>
   </article>
 </section>
-
-
-We can help your business by creating custom apps, websites, and providing technological consultancy. If you're considering creating your own app without coding it yourself, let our expert team handle it for you. Also we can help you with [Social Media Marketing and brand localization for the Chinese Market](./social-media-marketing-agency-china). [**Contact us, Get a Free Consultation**](mailto:contact@lenorix.com) today.
-
-## Why Choose lenorix for Your Business?
-
-Focused on innovation, transparency, and flexibility, lenorix stands out as a trusted partner for organizations seeking to leverage technology to its fullest potential.
-
-Our solutions combine power with simplicity, making advanced technology accessible and impactful. Between others, we have in our tech stack PHP, JavaScript/TypeScript, Python, Rust, Go, C/C++, Laravel, Symfony, Django, Axum and more.
-
-## Where are we?
-
-We are [a company based in Barcelona](./software-development-barcelona), and we know you might be searching for custom software development solutions companies near you. That's why we make our remote services feel as personal and effective as if we were right next door. We're committed to helping you achieve your goals.
-
-Also you can follow us in:
-
-- <a href="https://linkedin.com/company/lenorix" rel="nofollow">LinkedIn</a>
-- <a href="https://bsky.app/profile/lenorix.com" rel="nofollow">Bluesky</a>
-- <a href="https://instagram.com/by_lenorix/" rel="nofollow">Instagram</a>
-- <a href="https://x.com/lenorix_com" rel="nofollow">X (Twitter)</a>
-- <a href="https://t.me/lenorix" rel="nofollow">Telegram</a>
 
 ## Contact Us
 
