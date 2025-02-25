@@ -6,7 +6,7 @@ description: Are you ready to draw the future together?
 ---
 
 <section class="relative w-screen left-1/2 transform -translate-x-1/2 h-screen bg-cover bg-center vignette p-4" style="background-image: url('{{ "/assets/img/hero.webp?v=" | append: site.github.build_revision | relative_url }}');">
-  <article class="relative container-lg px-3 py-20">
+  <article class="container-lg px-3 py-20 relative z-10">
   Test
   </article>
 </section>
