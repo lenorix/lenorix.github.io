@@ -5,9 +5,10 @@ title: lenorix, drawing the future together
 description: Are you ready to draw the future together?
 ---
 
-A technology company dedicated to transforming complex challenges into seamless digital experiences. We deliver innovative, high-quality solutions that empower businesses to achieve more.
-
 ## Drawing The Future Together
+
+Transforming complex challenges into seamless experiences, drawing the future together. Delivering innovative, high-quality solutions that empower.
+
 
 We can help your business by creating custom apps, websites, and providing technological consultancy. If you're considering creating your own app without coding it yourself, let our expert team handle it for you. Also we can help you with [Social Media Marketing and brand localization for the Chinese Market](./social-media-marketing-agency-china). [**Contact us, Get a Free Consultation**](mailto:contact@lenorix.com) today.
 
