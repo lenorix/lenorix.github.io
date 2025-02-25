@@ -33,18 +33,6 @@
     <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="{{ "/assets/css/custom-style.css?v=" | append: site.github.build_revision | relative_url }}">
     <noscript><link rel="stylesheet" href="{{ "/assets/css/custom-style.css?v=" | append: site.github.build_revision | relative_url }}"></noscript>
 
-    {% if page.extra_preconnect %}
-      {% for preconnect in page.extra_preconnect %}
-        <link rel="preconnect" href="{{ preconnect }}">
-      {% endfor %}
-    {% endif %}
-
-    {% if page.extra_dns_prefetch %}
-      {% for dns_prefetch in page.extra_dns_prefetch %}
-        <link rel="dns-prefetch" href="{{ dns_prefetch }}">
-      {% endfor %}
-    {% endif %}
-
     {% seo %}
 
     <script type="application/ld+json">
