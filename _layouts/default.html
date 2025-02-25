@@ -2,8 +2,8 @@
 layout: base
 ---
 
-<header class="fixed top-0 left-0 w-full z-50">
-  <h1 id="site-title" class="absolute top-4 left-1/2 transform -translate-x-1/2 transition-transform duration-500 ease-in-out text-3xl">
+<header class="fixed top-0 left-0 w-full z-50 px-4 md:px-8 lg:px-16">
+  <h1 id="site-title" class="transition-transform duration-500 ease-in-out text-3xl">
     <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
   </h1>
 </header>
@@ -13,12 +13,15 @@ layout: base
 </main>
 
 <script async="true" type="text/javascript">
-  const maxScroll = 100;
   const title = document.getElementById('site-title');
+  const header = title.parentElement;
+  const maxScroll = 100;
+
+  const headerPaddingLeft = parseFloat(getComputedStyle(header).paddingLeft);
 
   window.addEventListener('scroll', () => {
     const scrollY = Math.min(window.scrollY, maxScroll);
-    const translateXPercent = -50 * (1 - scrollY / maxScroll);
-    title.style.transform = `translateX(${translateXPercent}%)`;
+    const shift = -headerPaddingLeft * (scrollY / maxScroll);
+    title.style.transform = `translateX(${shift}px)`;
   });
 </script>
