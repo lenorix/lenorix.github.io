@@ -2,10 +2,23 @@
 layout: base
 ---
 
-<header>
-  <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+<header class="fixed top-0 left-0 w-full z-50">
+  <h1 id="site-title" class="absolute top-4 left-1/2 transform -translate-x-1/2 transition-transform duration-500 ease-in-out text-3xl">
+    <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
+  </h1>
 </header>
 
-<main class="container-lg px-3 my-5 markdown-body">
+<main class="container-lg pt-24 px-3 my-5 markdown-body">
   {{ content }}
 </main>
+
+<script async="true" type="text/javascript">
+  const maxScroll = 100;
+  const title = document.getElementById('site-title');
+
+  window.addEventListener('scroll', () => {
+    const scrollY = Math.min(window.scrollY, maxScroll);
+    const translateXPercent = -50 * (1 - scrollY / maxScroll);
+    title.style.transform = `translateX(${translateXPercent}%)`;
+  });
+</script>
