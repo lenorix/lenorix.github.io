@@ -26,7 +26,7 @@ We are committed to helping you achieve your goals through:
 
 <details name="faq">
   <summary>How much do coders charge per hour?</summary>
-  For a full time software developer the average hourly rate can be €80 to €120 in Barcelona.
+  For a full time software developer the average hourly rate can be €15/h to €35/h in Barcelona.
 </details>
 <details name="faq">
   <summary>How long does it take to build custom software?</summary>
