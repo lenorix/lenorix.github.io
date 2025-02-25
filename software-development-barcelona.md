@@ -25,15 +25,21 @@ We are committed to helping you achieve your goals through:
 ## Frequent Questions
 
 <details name="faq">
-  <summary>How much do coders charge per hour?</summary>
+  <summary>
+    <h3>How much do coders charge per hour?</h3>
+  </summary>
   For a full time software developer the average hourly rate can be (raw) €15/h to €35/h in Barcelona.
 </details>
 <details name="faq">
-  <summary>How long does it take to build custom software?</summary>
+  <summary>
+    <h3>How long does it take to build custom software?</h3>
+  </summary>
   It'll depends on what do you need. Typically could take 1-3 months for a first version. After that, <a href="https://en.wikipedia.org/wiki/Software_evolution" rel="nofollow">software evolution</a> could continue to address changing stakeholder and market requirements.
 </details>
 <details name="faq">
-  <summary>Is custom software expensive?</summary>
+  <summary>
+    <h3>Is custom software expensive?</h3>
+  </summary>
   It could, but we are the partner you need to draw the future together. [Let's talk!](mailto:contact@lenorix.com)
 </details>
 
