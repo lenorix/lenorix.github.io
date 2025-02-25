@@ -2,10 +2,10 @@
 layout: base
 ---
 
-<main class="container-lg px-3 my-5 markdown-body">
-  {% if site.title and site.title != page.title %}
+<header>
   <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-  {% endif %}
+</header>
 
+<main class="container-lg px-3 my-5 markdown-body">
   {{ content }}
 </main>
