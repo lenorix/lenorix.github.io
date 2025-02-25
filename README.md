@@ -6,14 +6,11 @@ description: Are you ready to draw the future together?
 ---
 
 <section class="relative w-screen left-1/2 transform -translate-x-1/2 h-screen bg-cover bg-center vignette p-4" style="background-image: url('{{ "/assets/img/hero.webp?v=" | append: site.github.build_revision | relative_url }}');">
-  <article class="container-lg px-3 py-20 relative z-10">
-  Test
+  <article class="absolute inset-0 flex flex-col items-center justify-center px-3">
+  <h2 class="text-5xl font-bold text-white text-center">Drawing The Future Together</h2>
+  <p class="mt-4 text-xl text-white max-w-2xl text-center">Transforming complex challenges into seamless experiences, drawing the future together. Delivering innovative, high-quality solutions that empower.</p>
   </article>
 </section>
-
-## Drawing The Future Together
-
-Transforming complex challenges into seamless experiences, drawing the future together. Delivering innovative, high-quality solutions that empower.
 
 
 We can help your business by creating custom apps, websites, and providing technological consultancy. If you're considering creating your own app without coding it yourself, let our expert team handle it for you. Also we can help you with [Social Media Marketing and brand localization for the Chinese Market](./social-media-marketing-agency-china). [**Contact us, Get a Free Consultation**](mailto:contact@lenorix.com) today.
