@@ -9,7 +9,7 @@ description: Are you ready to draw the future together?
   <article class="absolute inset-0 flex flex-col items-center justify-center px-3">
     <h2 class="text-5xl font-bold text-white text-center">Drawing The Future Together</h2>
     <p class="mt-4 text-xl text-white max-w-2xl text-center">Transforming complex challenges into seamless experiences, drawing the future together. Delivering innovative, high-quality solutions that empower.</p>
-    <a href="#contact-us" class="inline-block bg-white text-black border border-gray-300 hover:bg-gray-100 py-2 px-4 rounded transition duration-300 font-medium transform transition duration-300 hover:scale-105 hover:no-underline">Let's talk!</a>
+    <a href="#contact-us" class="rotation-shake inline-block bg-white text-black border border-gray-300 hover:bg-gray-100 py-2 px-4 rounded transition duration-300 font-medium transform transition duration-300 hover:scale-105 hover:no-underline">Let's talk!</a>
   </article>
 </section>
 

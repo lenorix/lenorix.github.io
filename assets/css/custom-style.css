@@ -22,3 +22,22 @@ body > h1:first-child, body > div:first-child > h1:first-child {
 .logo-font {
   font-family: "Roboto";
 }
+
+.rotation-shake {
+  animation: rotation-shake 1s ease-in-out 5s forwards;
+}
+
+@keyframes rotation-shake {
+  0% {
+    transform: rotate(0deg);
+  }
+  30% {
+    transform: rotate(10deg);  /* Rota 10° hacia un lado */
+  }
+  70% {
+    transform: rotate(-10deg); /* Rota 10° hacia el lado opuesto */
+  }
+  100% {
+    transform: rotate(0deg);   /* Vuelve a la posición original */
+  }
+}
