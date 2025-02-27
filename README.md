@@ -36,7 +36,7 @@ description: Are you ready to draw the future together?
         <textarea id="message" name="message" required class="w-full p-2 rounded text-white border border-gray-600 focus:outline-none focus:border-gray-500 min-h-[150px]"></textarea>
     </div>
 
-    <button type="submit" class="w-full p-2 rounded bg-white text-black  border-gray-400 hover:bg-gray-300">
+    <button type="submit" class="w-full py-2 px-4 rounded bg-white text-black  border-gray-400 hover:bg-gray-300 transition duration-300 font-medium transform transition duration-300 hover:scale-105 hover:no-underline">
         Let's Connect!
     </button>
 </form>
