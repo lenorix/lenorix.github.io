@@ -17,7 +17,7 @@ description: Are you ready to draw the future together?
 
 <form action="https://fabform.io/f/KQ0OPQs" method="post" class="p-2 m-2 rounded border-gray-500 shadow-lg max-w-md mx-auto">
     <div class="mb-4 md:flex md:space-x-4">
-        <div class="md:w-1/2 mb-4 md:mb-0">
+        <div class="md:w-1/2 sm:mb-4 xs:mb-4">
             <label for="name" class="block text-white mb-1">Full Name</label>
             <input id="name" name="name" type="text" required class="w-full p-2 rounded text-white border border-gray-600 focus:outline-none focus:border-gray-500">
         </div>
