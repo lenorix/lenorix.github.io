@@ -21,7 +21,7 @@ description: Are you ready to draw the future together?
             <label for="name" class="block text-white mb-1">Full Name</label>
             <input id="name" name="name" type="text" required class="w-full p-2 rounded text-white border border-gray-600 focus:outline-none focus:border-gray-500">
         </div>
-        <div class="md:w-1/2 mt-4 md:mt-0">
+        <div class="md:w-1/2">
             <label for="email" class="block text-white mb-1">Email</label>
             <input id="email" name="email" type="email" required class="w-full p-2 rounded text-white border border-gray-600 focus:outline-none focus:border-gray-500">
         </div>
