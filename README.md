@@ -29,7 +29,7 @@ description: Are you ready to draw the future together?
 
     <div class="mb-4">
         <label for="message" class="block text-white mb-1">Message</label>
-        <textarea id="message" name="message" required class="w-full p-2 rounded text-white border border-gray-600 focus:outline-none focus:border-gray-500 min-h-[150px]"></textarea>
+        <textarea id="message" name="message" required class="w-full p-2 rounded text-white border border-gray-600 focus:outline-none focus:border-gray-500 min-h-[150px] max-h-[250px]"></textarea>
     </div>
 
     <button type="submit" class="w-full py-2 px-4 rounded bg-white text-black  border-gray-400 hover:bg-gray-300 transition duration-300 font-medium transform transition duration-300 hover:scale-105 hover:no-underline">
