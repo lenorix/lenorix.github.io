@@ -5,7 +5,7 @@ title: lenorix, drawing the future together
 description: Are you ready to draw the future together?
 ---
 
-<section class="relative w-screen left-1/2 transform -translate-x-1/2 h-dvh bg-cover bg-bottom vignette p-4 mb-6" style="background-image: url('{{ "/assets/img/hero.webp?v=" | append: site.github.build_revision | relative_url }}');">
+<section class="relative w-screen left-1/2 transform -translate-x-1/2 h-dvh bg-cover bg-bottom vignette p-4 mb-6 -mt-2" style="background-image: url('{{ "/assets/img/hero.webp?v=" | append: site.github.build_revision | relative_url }}');">
   <article class="absolute inset-0 flex flex-col items-center justify-center px-3 pt-0">
     <h2 class="text-5xl font-bold text-white text-center">Drawing The Future Together</h2>
     <p class="mt-4 text-xl text-white max-w-2xl text-center">Transforming complex challenges into seamless experiences, drawing the future together. Delivering innovative, high-quality solutions that empower.</p>
