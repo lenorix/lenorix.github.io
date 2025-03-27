@@ -4,7 +4,7 @@ extra_head: local-business.html
 title: lenorix, drawing the future together
 description: Are you ready to draw the future together?
 extra_image_webp_preload:
- - /assets/img/background.webp?v=
+ - /assets/img/hero.webp?v=
 ---
 
 <section class="relative w-screen left-1/2 transform -translate-x-1/2 h-dvh bg-cover bg-bottom vignette p-4 mb-6 -mt-2" style="background-image: url('{{ "/assets/img/hero.webp?v=" | append: site.github.build_revision | relative_url }}');">
