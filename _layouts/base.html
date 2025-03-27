@@ -49,6 +49,12 @@ html,body{margin:0;padding:0;min-height:100vh;background-color:#000;color:#fff;f
       {% endfor %}
     {% endif %}
 
+    {% if page.extra_image_webp_preload %}
+      {% for img_preload in page.extra_image_webp_preload %}
+        <link rel="preload" as="image" href="{{ img_preload | append: site.github.build_revision | relative_url }}" type="image/webp">
+      {% endfor %}
+    {% endif %}
+
     {% seo %}
 
     <script type="application/ld+json">
