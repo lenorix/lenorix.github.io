@@ -17,7 +17,7 @@ extra_image_webp_preload:
 
 ## Contact Us
 
-<form action="https://fabform.io/f/KQ0OPQs" method="post" class="p-2 m-2 rounded border-gray-500 shadow-lg max-w-md mx-auto">
+<form action="https://simpleforms.lenorix.com/api/01jv5qdbh3vbdqyfe4fyhg4trp" method="post" class="p-2 m-2 rounded border-gray-500 shadow-lg max-w-md mx-auto">
     <div class="mb-4 md:flex md:space-x-4">
         <div class="md:w-1/2 sm:mb-4 xs:mb-4">
             <label for="name" class="block text-white mb-1">Name</label>
