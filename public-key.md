@@ -5,7 +5,7 @@ description: Access lenorix's PGP public key for secure communication and data e
 
 # PGP Public Key
 
-You can download <a href="./public-key.asc">our public key as file</a>, or copy it:
+You can download <a href="./public-key.asc" download>our public key as file</a>, or copy it:
 
 <pre class="bg-black text-white">
 {% include_relative public-key.asc %}
