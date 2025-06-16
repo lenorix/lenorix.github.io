@@ -1,5 +1,5 @@
 ---
-permalink: public-key.html
+permalink: public-key
 description: Access lenorix's PGP public key for secure communication and data encryption. Enhance your digital security with our trusted key.
 ---
 
