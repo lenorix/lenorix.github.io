@@ -1,4 +1,5 @@
 ---
+permalink: index.html
 extra_head: local-business.html
 title: lenorix, drawing the future together
 description: Are you ready to draw the future together?
